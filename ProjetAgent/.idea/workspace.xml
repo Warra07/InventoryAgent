@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e97127d-a8ea-4389-b51c-93ae31223684" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProjetAgent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="94db9ef5-9949-48db-8ffb-d9a02034a5f2" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cVceotSVBHKwuETsVPCoYeGCSv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/agent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\ProjetAgent\src\main\java\agent" />
+      <recent name="C:\Users\user\Desktop\ProjetAgent\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Laucher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Laucher" />
+      <module name="ProjetAgent" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.Launcher" />
+      <module name="ProjetAgent" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Application.Laucher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e97127d-a8ea-4389-b51c-93ae31223684" name="Default Changelist" comment="" />
+      <created>1590617298424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590617298424</updated>
+      <workItem from="1590617303253" duration="59833000" />
+      <workItem from="1590963468068" duration="155000" />
+      <workItem from="1591121894566" duration="1667000" />
+      <workItem from="1591272531980" duration="445000" />
+      <workItem from="1591320282225" duration="4308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1591325824643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591325824643" />
+    <state x="453" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1590787396829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590787396828" />
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590714807254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1590714807254" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590759835402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590759835402" />
+    <state x="389" y="106" key="FileChooserDialogImpl" timestamp="1590711761004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590711761004" />
+    <state width="1323" height="13" key="GridCell.Tab.0.bottom" timestamp="1591324605588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="13" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591324605588" />
+    <state width="1323" height="13" key="GridCell.Tab.0.center" timestamp="1591324605587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="13" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591324605587" />
+    <state width="1323" height="13" key="GridCell.Tab.0.left" timestamp="1591324605587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="13" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591324605587" />
+    <state width="1323" height="13" key="GridCell.Tab.0.right" timestamp="1591324605587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="13" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591324605587" />
+    <state x="397" y="0" key="Maven.ArtifactSearchDialog" timestamp="1590769424621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1590769424621" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1590774063299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590774063299" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590702161308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1590702161308" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591042489696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591042489696" />
+    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1590681029560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1590681029560" />
+    <state x="65" y="0" key="new project wizard" timestamp="1591133095434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591133095434" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591122021821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591122021821" />
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1590692394930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590692394930" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/ProduitList.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
